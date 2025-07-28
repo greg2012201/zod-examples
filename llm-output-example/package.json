@@ -1,0 +1,23 @@
+{
+    "name": "llm-output-example",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "dist/index.js",
+    "scripts": {
+        "start": "node dist/index.js",
+        "dev": "ts-node src/index.ts",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@langchain/core": "^0.3.62",
+        "@langchain/openai": "^0.6.0",
+        "@types/node": "^24.0.14",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3",
+        "zod": "^3.25.76"
+    }
+}
