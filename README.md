@@ -1,6 +1,6 @@
 # Zod Examples
 
-This repository contains practical examples of using Zod for runtime type validation in TypeScript applications. The examples were created for an article about type-safe data validation with Zod.
+This repository contains practical examples of using Zod for runtime type validation in TypeScript applications. The examples were created for an article [about type-safe data validation with Zod](https://www.aboutjs.dev/en/posts/zod-the-quiet-hero-of-modern-web-development) published on the [about.js blog](https://www.aboutjs.dev/en).
 
 ## Examples
 
